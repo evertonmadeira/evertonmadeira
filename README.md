@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Everton 👋🏻👨🏻‍💻
 
+I'm a full stack developer interested in making things that can help people.
 <!--
 **evertonmadeira/evertonmadeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
