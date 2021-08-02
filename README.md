@@ -32,4 +32,3 @@ Sou um Engenheiro da Computação e desenvolvedor interessado em construir coisa
   
   [E-mail](everton.comp@gmail.com)
 
-- ⚡ Fato interessante: Sou apaixonado por animais, em especial por cavalos 🐴😍😂.
